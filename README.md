@@ -1,6 +1,5 @@
-##### Postmaster_Public
-*This is public repo with limited architectural and functional information of Project Postmaster.
-#
+**This is public repo with limited architectural and functional information of Project Postmaster.*
+
 
 ## Postmaster
 
