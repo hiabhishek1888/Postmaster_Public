@@ -54,7 +54,10 @@ While **Postmaster** is fundamentally a decentralized system, it intentionally u
 
 #
 ### Current Status:
-Still venturing into architectural choices, but soon will be starting dev of control plane (peer discovery service).
+I am currently evaluating architectural trade-offs for this project, focusing on performance, scalability, reliability, resiliency, availability and simplicity. 
+I will soon begin development of the control plane (peer discovery service).
+
+**On a side note:** I have previously worked on a similar project from an implementation perspective. This project is inspired/learned by that experience: https://github.com/hiabhishek1888/ninjafilesystem
 
 ### Found any missing/wrong piece or any doubt? Please open an issue to discuss.
 Cheers 🙂
